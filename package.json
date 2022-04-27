@@ -1,0 +1,19 @@
+{
+  "name": "frank",
+  "version": "1.0.0",
+  "description": "challenge, read csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Franklin Michelle Trejos",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.1"
+  },
+  "devDependencies": {
+    "babel-jest": "^28.0.1",
+    "babel-preset-es2015": "^6.24.1",
+    "jest": "^28.0.1"
+  }
+}
